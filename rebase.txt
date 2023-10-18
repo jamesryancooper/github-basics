@@ -1,1 +1,1 @@
-editing the rebase file on the master branch.
+this is the edit of the rebase file on the new-feature branch.
